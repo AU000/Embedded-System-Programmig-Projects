@@ -1,0 +1,11 @@
+"Arduino-based Alarm Clock with Temperature and Humidity Measurements"
+•	A designed an Arduino-based alarm clock that incorporates temperature and humidity measurements for enhanced functionality.
+"Interface a LED, Servo and Joystick to an Arduino Mega 2560"
+•	Connect a LED to digital pin 13, a Servo motor to digital pin 9, and a Joystick to analog pins A0-A2 on an Arduino Mega 2560, ensuring appropriate power and ground connections.
+"Arduino, Motor Driver, Stepper Motor, IR Remote, and IR Receiver"
+•	Using an Arduino microcontroller, a motor driver, a stepper motor, and an IR remote with an IR receiver, you can create a system for wirelessly controlling the stepper motor's movements.
+"Internet of Things (IoT) Home Automation with Android and ESP32"
+•	Create a home automation system using Android and ESP32 for Internet of Things (IoT) connectivity.
+https://drive.google.com/drive/folders/1BVAmYFOGrl3tREkGM2JFcvTuN4x1vlrf?usp=sharing
+Click the link, so you can view the videos of the projects..... I only posted the videos because my laptop was stolen and the codes of the projects was there.
+Just use the arduino IDE and download it.
